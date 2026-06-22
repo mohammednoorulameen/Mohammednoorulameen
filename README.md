@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohammednoorulameen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently honing my skills as a **MERN Stack Developer**.  
-- 💼 I’m actively looking for **exciting job opportunities** to contribute and grow as a developer.  
+
 - 📫 How to reach me: **noorulameen8606@gmail.com**
 
 ---
